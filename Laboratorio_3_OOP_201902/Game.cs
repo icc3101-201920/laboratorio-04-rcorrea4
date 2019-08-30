@@ -92,5 +92,13 @@ namespace Laboratorio_3_OOP_201902
         {
             throw new NotImplementedException();
         }
+        public List<string> deck = new List<string>();
+
+        public void leerArchivo(string archivoTexto)
+        {
+            
+        }
+    
+
     }
 }
